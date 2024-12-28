@@ -7,8 +7,7 @@ Facebook
 Instagram
 LinkedIn
 Telegram
-https://vioo.cc/v/2bE95
-/home/parrot/Videos/Another link to simplescreenrecorder-2024-12-28_22.47.34.mkv
+
 
 
 Mock Environment: Operates in a safe, controlled environment to simulate the password-testing process.
